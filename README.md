@@ -2,7 +2,6 @@
 ## M
 ### Mas Pequeno
 #### Mas Pequenito
-##### Super Pequenito 
 *Negrita*
 <Codigo>
 practicas de DevOps
